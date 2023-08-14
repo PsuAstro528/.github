@@ -1,8 +1,12 @@
 # .github
 
 # Penn State Astro 528
-## High-Performance Computing for Astrophysics (Fall 2021)
+## High-Performance Computing for Astrophysics
 
+## Website
+- [Fall 2023](https://psuastro528.github.io/Fall2023/) (work in progress)
+- [Fall 2021](https://psuastro528.github.io/)
+  
 ### Lab Tutorials/ Homework Exercises 
 - [Lab 1: Tools & Fundamentals: Git, GitHub, Floating Point Arithmetic](https://github.com/PsuAstro528/lab1-start/)
 - [Lab 2: Best Practices:  Best Practices: Assertions, Unit Testing, Continuous Integrations, Benchmarking](https://github.com/PsuAstro528/lab2-start/)
@@ -15,8 +19,12 @@
 - [Lab 9: Reproduciblity](https://github.com/PsuAstro528/lab9-start/)
 
 ### Notes from class
-- [Source for Pluto notebooks](https://github.com/PsuAstro528/Notes-Fall2021) 
-- [HTML](https://psuastro528.github.io/Notes-Fall2021/)
+- Fall 2023 (incomplete)
+   - [Source for Pluto notebooks](https://github.com/PsuAstro528/Notes-Fall2023) 
+   - [HTMLfor Pluto notebooks](https://psuastro528.github.io/Notes-Fall2023/)
+- Fall 2021 (complete, but dated)
+   - [Source for Pluto notebooks](https://github.com/PsuAstro528/Notes-Fall2021) 
+   - [HTMLfor Pluto notebooks](https://psuastro528.github.io/Notes-Fall2021/)
 
 ### Reusing & citing this work 
 If you use any of these materials in academic work (e.g., courses, papers), please cite Ford, Eric B. 2021 doi:10.26207/zt99-ba86. If you use any of these materials in websites, please consider linking to [PSU Astro 528: High-Performance Computing for Astrophysics course materials (Fall 2021)](https://psuastro528.github.io/).
