@@ -4,7 +4,7 @@
 ## High-Performance Computing for Astrophysics
 
 ## Website
-- [Fall 2023](https://psuastro528.github.io/Fall2025/) (work in progress)
+- [Fall 2025](https://psuastro528.github.io/Fall2025/) (work in progress)
 - [Fall 2023](https://psuastro528.github.io/Fall2023/) 
 - [Fall 2021](https://psuastro528.github.io/)
   
