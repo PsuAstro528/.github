@@ -33,7 +33,7 @@
 
 
 ### Notes from class
-- Fall 2023 (incomplete)
+- Fall 2025 (incomplete)
    - [Source for Pluto notebooks](https://github.com/PsuAstro528/Notes-Fall2025) 
    - [HTMLfor Pluto notebooks](https://psuastro528.github.io/Notes-Fall2025/)
 - Fall 2023 (complete, but dated)
