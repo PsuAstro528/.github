@@ -1,12 +1,13 @@
-# .github
-
 # Penn State Astro 528
 ## High-Performance Computing for Astrophysics
 
 ## Website
-- [Fall 2025](https://psuastro528.github.io/Fall2025/) (work in progress)
-- [Fall 2023](https://psuastro528.github.io/Fall2023/) 
-- [Fall 2021](https://psuastro528.github.io/)
+- [Fall 2025](https://psuastro528.github.io/Fall2025/) ([source](https://github.com/PsuAstro528/Fall2025)) (work in progress)
+- [Fall 2023](https://psuastro528.github.io/Fall2023/) ([source](https://github.com/PsuAstro528/Fall2023))
+- Fall 2021 ([source](https://github.com/PsuAstro528/Fall2021-website-src))
+- Fall 2019 ([source](https://github.com/PsuAstro528/Spring2019-website-src))
+- Fall 2015 ([source](https://github.com/eford/Astro585_2015_Fall_Public))
+- Spring 2014 ([source](https://github.com/eford/Astro585_2014_Spring))
   
 ### Lab Tutorials/ Homework Exercises 
 #### Fall 2025 (work in progress)
@@ -33,18 +34,15 @@
 
 
 ### Notes from class
-- Fall 2025 (incomplete)
+- Fall 2025 (in progress)
    - [Source for Pluto notebooks](https://github.com/PsuAstro528/Notes-Fall2025) 
-   - [HTMLfor Pluto notebooks](https://psuastro528.github.io/Notes-Fall2025/)
+   - [HTML for Pluto notebooks](https://psuastro528.github.io/Notes-Fall2025/)
 - Fall 2023 (complete, but dated)
    - [Source for Pluto notebooks](https://github.com/PsuAstro528/Notes-Fall2023) 
-   - [HTMLfor Pluto notebooks](https://psuastro528.github.io/Notes-Fall2023/)
-- Fall 2021 (complete, but dated)
-   - [Source for Pluto notebooks](https://github.com/PsuAstro528/Notes-Fall2021) 
-   - [HTMLfor Pluto notebooks](https://psuastro528.github.io/Notes-Fall2021/)
+   - [HTML for Pluto notebooks](https://psuastro528.github.io/Notes-Fall2023/)
 
 ### Reusing & citing this work 
-If you use any of these materials in academic work (e.g., courses, papers), please cite Ford, Eric B. 2021 doi:10.26207/zt99-ba86. If you use any of these materials in websites, please consider linking to [PSU Astro 528: High-Performance Computing for Astrophysics course materials (Fall 2021)](https://psuastro528.github.io/).
+If you use any of these materials in academic work (e.g., courses, papers), please cite Ford, Eric B. 2021 doi:10.26207/zt99-ba86. If you use any of these materials in websites, please consider linking to [PSU Astro 528: High-Performance Computing for Astrophysics course materials](https://psuastro528.github.io/).
 
 The course materials are licensed as follows:
 The code is under the [MIT license](https://opensource.org/licenses/MIT).
